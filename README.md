@@ -1,4 +1,4 @@
-# calculator
+# vue-calculator
 
 ## Project setup
 ```
@@ -27,3 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+based on https://github.com/codyseibert/vue-calculator
